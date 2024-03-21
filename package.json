@@ -1,9 +1,8 @@
 {
-  "name": "reveal.js",
-  "version": "5.0.5",
-  "description": "The HTML Presentation Framework",
-  "homepage": "https://revealjs.com",
-  "subdomain": "revealjs",
+  "name": "Die Patienten",
+  "version": "0.0.1",
+  "description": "Website for theatre group “Die Patienten”",
+  "homepage": "https://patienten.theater",
   "main": "dist/reveal.js",
   "module": "dist/reveal.esm.js",
   "license": "MIT",
@@ -13,21 +12,17 @@
     "build": "gulp build"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "https://hakim.se"
+    "name": "Patrick Hund"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git@github.com:pahund/die-patienten.git"
   },
   "engines": {
     "node": ">=18.0.0"
   },
   "keywords": [
-    "reveal",
-    "slides",
-    "presentation"
+    "homepage"
   ],
   "devDependencies": {
     "@babel/core": "^7.23.2",
