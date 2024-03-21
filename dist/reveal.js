@@ -1,6 +1,6 @@
 /*!
-* reveal.js 5.0.5
-* https://revealjs.com
+* reveal.js 0.0.1
+* https://patienten.theater
 * MIT licensed
 *
 * Copyright (C) 2011-2024 Hakim El Hattab, https://hakim.se
