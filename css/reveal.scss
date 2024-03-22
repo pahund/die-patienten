@@ -2125,3 +2125,7 @@ $notesWidthPercent: 25%;
 		max-height: calc(var(--page-height) / var(--slide-scale) - var(--r-block-margin) * 2) !important;
 	}
 }
+
+.img-below-headline {
+	max-height: calc(var(--page-height) / var(--slide-scale) - var(--r-block-margin) * 10) !important;
+}
